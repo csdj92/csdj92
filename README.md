@@ -1,6 +1,6 @@
 # Hi! I'm C.J.! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70px">
 ---
-Results-driven and motivated Software Engineer with the ability to improve software performance, with an
+Result-driven and motivated Software Engineer with the ability to improve software performance, with an
 understanding of multiple programming languages. The ability to remediate software and systems issues while
 developing new functionality. I have a passion for technology and learning new ways to solve problems and
 grow.
