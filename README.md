@@ -1,6 +1,5 @@
 # Hi! I'm C.J.! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70px">
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/charles-davis-20a748123/)
 ---
 🧰 Development Toolbox 
 
